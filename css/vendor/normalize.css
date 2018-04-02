@@ -1,14 +1,12 @@
-/* Color Variables */
-/* Text Colors */
 /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
 /**
- * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 html {
   font-family: "Roboto", sans-serif;
+  /* 1 */
   font-weight: 400;
   line-height: 1.6;
   /* 2 */
